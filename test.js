@@ -1,6 +1,6 @@
 const {expect} = require('chai');
 const nunjucks = require('nunjucks');
-const WithExtension = require('./with');
+const WithExtension = require('.');
 
 const MockLoader = nunjucks.Loader.extend({
   getSource: function(name) {
