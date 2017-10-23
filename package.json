@@ -2,10 +2,11 @@
   "name": "@allmarkedup/nunjucks-with",
   "version": "0.1.0",
   "description": "A scoped context block extension for Nunjucks",
-  "homepage": "http://fractal.build",
-  "repository": "https://github.com/frctl/fractal/tree/v2/packages/internals/support",
-  "bugs": "https://github.com/frctl/fractal/issues",
+  "homepage": "https://github.com/allmarkedup/nunjucks-with",
+  "repository": "https://github.com/allmarkedup/nunjucks-with",
+  "bugs": "https://github.com/allmarkedup/nunjucks-with/issues",
   "author": "Mark Perkins <mark@allmarkedup.com> (http://allmarkedup.com)",
+  "keywords": ["nunjucks","context","scope"],
   "license": "MIT",
   "dependencies": {
     "nunjucks": "^3.0.1"
