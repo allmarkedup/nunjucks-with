@@ -13,6 +13,13 @@
   ],
   "license": "MIT",
   "dependencies": {
+    "chai": "^4.1.2",
     "nunjucks": "^3.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
   }
 }
