@@ -1,12 +1,16 @@
 {
   "name": "@allmarkedup/nunjucks-with",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A scoped context block extension for Nunjucks",
   "homepage": "https://github.com/allmarkedup/nunjucks-with",
   "repository": "https://github.com/allmarkedup/nunjucks-with",
   "bugs": "https://github.com/allmarkedup/nunjucks-with/issues",
   "author": "Mark Perkins <mark@allmarkedup.com> (http://allmarkedup.com)",
-  "keywords": ["nunjucks","context","scope"],
+  "keywords": [
+    "nunjucks",
+    "context",
+    "scope"
+  ],
   "license": "MIT",
   "dependencies": {
     "nunjucks": "^3.0.1"
