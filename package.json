@@ -1,6 +1,6 @@
 {
   "name": "@allmarkedup/nunjucks-with",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A scoped context block extension for Nunjucks",
   "homepage": "http://fractal.build",
   "repository": "https://github.com/frctl/fractal/tree/v2/packages/internals/support",
